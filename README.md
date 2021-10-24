@@ -1,0 +1,2 @@
+# amazon-order-invoice-checker
+There are hundreds of amazon orders every week from different vendor codes with different shipment terms and payment terms and amazon is not resposible to pay without creating invoice back to their system even though they have received the goods. This short project is aim to not only check if there is any order miss invoice but also can detect the bad invoice in our accounting platform, Quickbooks.
