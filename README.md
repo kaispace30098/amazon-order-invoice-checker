@@ -3,6 +3,7 @@ There are hundreds of amazon orders every week from different vendor codes with 
 ![11](https://user-images.githubusercontent.com/93064471/139794168-afc22cfc-0448-4937-abac-42dc65a9cb52.PNG)
 
 Let's prepare the data from different Portals
+Go to the jupyter notebooks and run through each code cell!
 ## 1.Please Upload confirmed Purchase Orders from Vendor central
 ## 2.Please Upload Quickbooks Gowise invoices csv
 ## 3.Please Upload Quickbooks Camping invoices csv
